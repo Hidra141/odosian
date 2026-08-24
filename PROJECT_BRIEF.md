@@ -5,7 +5,7 @@
 **Status:** Active Development  
 **Stack:** Next.js 16 · React 19 · Prisma 7 · SQLite  
 **Branch:** master  
-**Repo:** github.com/MohdAlkafaween/odosian
+**Repo:** github.com/Hidra141/odosian
 
 ---
 
@@ -493,7 +493,7 @@ Run `npx prisma db seed` to populate. Defined in `prisma/seed.ts`.
 
 ```bash
 # Clone and install
-git clone https://github.com/MohdAlkafaween/odosian.git
+git clone https://github.com/Hidra141/odosian.git
 cd odosian
 npm install
 
