@@ -1,0 +1,5 @@
+# Shell scripts must keep LF — docker-entrypoint.sh runs inside a Linux image
+*.sh text eol=lf
+*.sql text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
