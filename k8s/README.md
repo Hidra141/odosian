@@ -10,8 +10,8 @@
 ## 1. Build and Push the Docker Image
 
 ```bash
-docker build -t ghcr.io/mohdalkafaween/odosian:latest .
-docker push ghcr.io/mohdalkafaween/odosian:latest
+docker build -t ghcr.io/hidra141/odosian:latest .
+docker push ghcr.io/hidra141/odosian:latest
 ```
 
 ## 2. Create the Namespace
